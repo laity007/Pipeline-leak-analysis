@@ -1,0 +1,7 @@
+plot/(1)/*.png
+plot/(1)/*.jpg
+plot/(1)/*.jpeg
+plot/(1)/*.pdf
+plot/(1)/*.svg
+__pycache__/
+*.pyc

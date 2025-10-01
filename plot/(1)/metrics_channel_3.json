@@ -1,0 +1,18 @@
+{
+  "channel": 3,
+  "dt_estimate": 0.10000000000002274,
+  "duplicate_timestamp_ratio": 0.994585589337776,
+  "map_iterations": 14,
+  "map_lambda_smooth": 99.99999999997726,
+  "map_lambda_sparse": 0.7109908858413639,
+  "mmse_em_iterations": 15,
+  "mmse_measurement_var": 0.1291726231683861,
+  "mmse_process_var": 0.00014286271182501763,
+  "resid_lag1_map": 0.8780571681838529,
+  "resid_lag1_mmse": 0.9445064368951106,
+  "resid_var_map": 0.05181278480020687,
+  "resid_var_mmse": 0.12849125846358891,
+  "snr_map_db": 0.3993165009345274,
+  "snr_mmse_db": -19.221677281662636,
+  "timestamp_warning": false
+}
